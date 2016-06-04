@@ -1,0 +1,1518 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.13)  4 JUN 2016 20:40
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Untitled.tex
+(./Untitled.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen113
+\Hy@linkcounter=\count91
+\Hy@pagecounter=\count92
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count93
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count94
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen114
+\Fld@menulength=\count95
+\Field@Width=\dimen115
+\Fld@charsize=\dimen116
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count96
+\c@Item=\count97
+\c@Hfootnote=\count98
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count99
+\c@bookmark@seq@number=\count100
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count101
+\lst@gtempboxa=\box26
+\lst@token=\toks17
+\lst@length=\count102
+\lst@currlwidth=\dimen117
+\lst@column=\count103
+\lst@pos=\count104
+\lst@lostspace=\dimen118
+\lst@width=\dimen119
+\lst@newlines=\count105
+\lst@lineno=\count106
+\lst@maxwidth=\dimen120
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count107
+\lst@skipnumbers=\count108
+\lst@framebox=\box27
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen121
+\captionmargin@=\dimen122
+\captionwidth=\dimen123
+\caption@tempdima=\dimen124
+\caption@indent=\dimen125
+\caption@parindent=\dimen126
+\caption@hangindent=\dimen127
+)
+\c@ContinuedFloat=\count109
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count110
+\c@subtable=\count111
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/05/11 v0.4x Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count112
+\calc@Bcount=\count113
+\calc@Adimen=\dimen128
+\calc@Bdimen=\dimen129
+\calc@Askip=\skip44
+\calc@Bskip=\skip45
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count114
+\calc@Cskip=\skip46
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
+)
+\AM@pagewidth=\dimen130
+\AM@pageheight=\dimen131
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2015/05/11 v0.4x Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box28
+\AM@toc@title=\toks18
+\c@AM@survey=\count115
+\AM@templatesizebox=\box29
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen132
+\extrarowheight=\dimen133
+\NC@list=\toks19
+\extratabsurround=\skip47
+\backup@length=\skip48
+)
+\TX@col@width=\dimen134
+\TX@old@table=\dimen135
+\TX@old@col=\dimen136
+\TX@target=\dimen137
+\TX@delta=\dimen138
+\TX@cols=\count116
+\TX@ftn=\toks20
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/09/06 1.5e listings language file
+)
+(./Untitled.aux
+
+LaTeX Warning: Label `table:performanceMetrics' multiply defined.
+
+)
+\openout1 = `Untitled.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count117
+\scratchdimen=\dimen139
+\scratchbox=\box30
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count120
+\MPscratchDim=\dimen140
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box31
+Package hyperref Info: Link coloring OFF on input line 59.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count123
+)
+LaTeX Info: Redefining \ref on input line 59.
+LaTeX Info: Redefining \pageref on input line 59.
+LaTeX Info: Redefining \nameref on input line 59.
+
+(./Untitled.out) (./Untitled.out)
+\@outlinefile=\write3
+\openout3 = `Untitled.out'.
+
+\c@lstlisting=\count124
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 61.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 61.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 69--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--76
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 77--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--84
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 85--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--94
+
+ []
+
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
+
+ []
+
+[7]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 114.
+
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 114.
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--127
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--151
+
+ []
+
+[9] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 168--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--194
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 196--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--202
+
+ []
+
+[12] [13] <./musicCircle.png, id=382, 1175.39125pt x 916.42375pt>
+File: ./musicCircle.png Graphic file (type png)
+
+<use ./musicCircle.png>
+Package pdftex.def Info: ./musicCircle.png used on input line 209.
+(pdftex.def)             Requested size: 258.00539pt x 201.15239pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--213
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 214--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--223
+
+ []
+
+
+Overfull \hbox (4.32953pt too wide) in paragraph at lines 217--223
+\OT1/cmr/m/n/10 Replica sets pro-vide high per-for-mance repli-ca-tion with au-
+to-mated failover, while sharded
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--223
+
+ []
+
+[15 <./musicCircle.png>]
+Overfull \hbox (1.91882pt too wide) in paragraph at lines 238--238
+[]|\OT1/cmr/m/n/10.95 hg[]assessment[]overall[]evaluation[]metadata| 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 279--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--286
+
+ []
+
+[18
+
+] [19] <./praiseUser.png, id=421, 1003.75pt x 166.6225pt>
+File: ./praiseUser.png Graphic file (type png)
+
+<use ./praiseUser.png>
+Package pdftex.def Info: ./praiseUser.png used on input line 334.
+(pdftex.def)             Requested size: 258.00539pt x 42.82759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--338
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--338
+
+ []
+
+[20 <./praiseUser.png>] <./media.png, id=430, 1003.75pt x 166.6225pt>
+File: ./media.png Graphic file (type png)
+
+<use ./media.png>
+Package pdftex.def Info: ./media.png used on input line 343.
+(pdftex.def)             Requested size: 258.00539pt x 42.82759pt.
+ <./activityDefinition.png, id=432, 1003.75pt x 166.6225pt>
+File: ./activityDefinition.png Graphic file (type png)
+
+<use ./activityDefinition.png>
+Package pdftex.def Info: ./activityDefinition.png used on input line 350.
+(pdftex.def)             Requested size: 258.00539pt x 42.82759pt.
+
+<./activity.png, id=434, 1003.75pt x 166.6225pt>
+File: ./activity.png Graphic file (type png)
+ <use ./activity.png>
+Package pdftex.def Info: ./activity.png used on input line 357.
+(pdftex.def)             Requested size: 258.00539pt x 42.82759pt.
+
+<./mediaLogView.png, id=436, 1003.75pt x 166.6225pt>
+File: ./mediaLogView.png Graphic file (type png)
+ <use ./mediaLogView.png>
+Package pdftex.def Info: ./mediaLogView.png used on input line 364.
+(pdftex.def)             Requested size: 258.00539pt x 42.82759pt.
+
+<./sessions.png, id=438, 1003.75pt x 166.6225pt>
+File: ./sessions.png Graphic file (type png)
+ <use ./sessions.png>
+Package pdftex.def Info: ./sessions.png used on input line 371.
+(pdftex.def)             Requested size: 258.00539pt x 42.82759pt.
+
+<./log.png, id=440, 1003.75pt x 166.6225pt>
+File: ./log.png Graphic file (type png)
+ <use ./log.png>
+Package pdftex.def Info: ./log.png used on input line 378.
+(pdftex.def)             Requested size: 258.00539pt x 42.82759pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[21 <./media.png> <./activityDefinition.png> <./activity.png>] [22 <./mediaLogV
+iew.png> <./sessions.png> <./log.png>]
+<./datapipe.png, id=467, 836.12375pt x 624.3325pt>
+File: ./datapipe.png Graphic file (type png)
+ <use ./datapipe.png>
+Package pdftex.def Info: ./datapipe.png used on input line 403.
+(pdftex.def)             Requested size: 258.00539pt x 192.6551pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--407
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--407
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--407
+
+ []
+
+[23]
+Underfull \hbox (badness 1735) in paragraph at lines 437--437
+[]|\OT1/cmr/m/n/10.95 Total ac-tiv-i-ties in Mu-sic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--437
+[]|\OT1/cmr/m/n/10.95 Number of com-mu-nity
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24 <./datapipe.png>] <./uploadsPerDay.png, id=484, 723.70375pt x 379.4175pt>
+File: ./uploadsPerDay.png Graphic file (type png)
+
+<use ./uploadsPerDay.png>
+Package pdftex.def Info: ./uploadsPerDay.png used on input line 452.
+(pdftex.def)             Requested size: 193.50076pt x 101.4483pt.
+
+<sessionsPerDay.png, id=485, 723.70375pt x 379.4175pt>
+File: sessionsPerDay.png Graphic file (type png)
+
+<use sessionsPerDay.png>
+Package pdftex.def Info: sessionsPerDay.png used on input line 459.
+(pdftex.def)             Requested size: 193.50076pt x 101.4483pt.
+ <viewsPerDay.png, id=486, 723.70375pt x 379.4175pt>
+File: viewsPerDay.png Graphic file (type png)
+
+<use viewsPerDay.png>
+Package pdftex.def Info: viewsPerDay.png used on input line 466.
+(pdftex.def)             Requested size: 193.50076pt x 101.4483pt.
+ <commentsPerDay.png, id=487, 723.70375pt x 379.4175pt>
+File: commentsPerDay.png Graphic file (type png)
+
+<use commentsPerDay.png>
+Package pdftex.def Info: commentsPerDay.png used on input line 473.
+(pdftex.def)             Requested size: 193.50076pt x 101.4483pt.
+ <repliesPerDay.png, id=488, 723.70375pt x 379.4175pt>
+File: repliesPerDay.png Graphic file (type png)
+
+<use repliesPerDay.png>
+Package pdftex.def Info: repliesPerDay.png used on input line 480.
+(pdftex.def)             Requested size: 193.50076pt x 101.4483pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--491
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--491
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--491
+
+ []
+
+[25] [26 <./uploadsPerDay.png> <./sessionsPerDay.png> <./viewsPerDay.png> <./co
+mmentsPerDay.png> <./repliesPerDay.png>] [27]
+<./dbLink.png, id=519, 1003.75pt x 681.54625pt>
+File: ./dbLink.png Graphic file (type png)
+ <use ./dbLink.png>
+Package pdftex.def Info: ./dbLink.png used on input line 494.
+(pdftex.def)             Requested size: 344.005pt x 233.58417pt.
+
+<./pythonScripts/generalStatistics/distributionGrades.png, id=522, 578.16pt x 4
+33.62pt>
+File: ./pythonScripts/generalStatistics/distributionGrades.png Graphic file (ty
+pe png)
+ <use ./pythonScripts/generalStatistics/distributionGrades.png>
+Package pdftex.def Info: ./pythonScripts/generalStatistics/distributionGrades.p
+ng used on input line 502.
+(pdftex.def)             Requested size: 171.99922pt x 128.99527pt.
+
+<./pythonScripts/allActivities.png, id=523, 578.16pt x 433.62pt>
+File: ./pythonScripts/allActivities.png Graphic file (type png)
+
+<use ./pythonScripts/allActivities.png>
+Package pdftex.def Info: ./pythonScripts/allActivities.png used on input line 5
+09.
+(pdftex.def)             Requested size: 171.99922pt x 128.99527pt.
+
+<./pythonScripts/generalStatistics/uploads.png, id=524, 578.16pt x 433.62pt>
+File: ./pythonScripts/generalStatistics/uploads.png Graphic file (type png)
+
+<use ./pythonScripts/generalStatistics/uploads.png>
+Package pdftex.def Info: ./pythonScripts/generalStatistics/uploads.png used on 
+input line 516.
+(pdftex.def)             Requested size: 171.99922pt x 128.99527pt.
+
+<./pythonScripts/generalStatistics/comments.png, id=525, 578.16pt x 433.62pt>
+File: ./pythonScripts/generalStatistics/comments.png Graphic file (type png)
+
+<use ./pythonScripts/generalStatistics/comments.png>
+Package pdftex.def Info: ./pythonScripts/generalStatistics/comments.png used on
+ input line 523.
+(pdftex.def)             Requested size: 171.99922pt x 128.99527pt.
+
+<./pythonScripts/generalStatistics/mytracks.png, id=526, 578.16pt x 433.62pt>
+File: ./pythonScripts/generalStatistics/mytracks.png Graphic file (type png)
+
+<use ./pythonScripts/generalStatistics/mytracks.png>
+Package pdftex.def Info: ./pythonScripts/generalStatistics/mytracks.png used on
+ input line 530.
+(pdftex.def)             Requested size: 171.99922pt x 128.99527pt.
+
+<./pythonScripts/generalStatistics/community.png, id=527, 578.16pt x 433.62pt>
+File: ./pythonScripts/generalStatistics/community.png Graphic file (type png)
+
+<use ./pythonScripts/generalStatistics/community.png>
+Package pdftex.def Info: ./pythonScripts/generalStatistics/community.png used o
+n input line 537.
+(pdftex.def)             Requested size: 171.99922pt x 128.99527pt.
+
+<./pythonScripts/generalStatistics/plays.png, id=528, 578.16pt x 433.62pt>
+File: ./pythonScripts/generalStatistics/plays.png Graphic file (type png)
+
+<use ./pythonScripts/generalStatistics/plays.png>
+Package pdftex.def Info: ./pythonScripts/generalStatistics/plays.png used on in
+put line 544.
+(pdftex.def)             Requested size: 171.99922pt x 128.99527pt.
+
+<./commentsPostedVsGrades.png, id=529, 578.16pt x 433.62pt>
+File: ./commentsPostedVsGrades.png Graphic file (type png)
+
+<use ./commentsPostedVsGrades.png>
+Package pdftex.def Info: ./commentsPostedVsGrades.png used on input line 551.
+(pdftex.def)             Requested size: 171.99922pt x 128.99527pt.
+
+
+LaTeX Warning: Float too large for page by 58.1045pt on input line 559.
+
+[28
+
+ <./dbLink.png>] [29 <./pythonScripts/generalStatistics/distributionGrades.png>
+ <./pythonScripts/allActivities.png> <./pythonScripts/generalStatistics/uploads
+.png> <./pythonScripts/generalStatistics/comments.png> <./pythonScripts/general
+Statistics/mytracks.png> <./pythonScripts/generalStatistics/community.png> <./p
+ythonScripts/generalStatistics/plays.png> <./commentsPostedVsGrades.png>]
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 586--588
+
+ []
+
+<./hist1.png, id=567, 578.16pt x 433.62pt>
+File: ./hist1.png Graphic file (type png)
+ <use ./hist1.png>
+Package pdftex.def Info: ./hist1.png used on input line 620.
+(pdftex.def)             Requested size: 193.50076pt x 145.11969pt.
+
+<./hist2.png, id=568, 578.16pt x 433.62pt>
+File: ./hist2.png Graphic file (type png)
+ <use ./hist2.png>
+Package pdftex.def Info: ./hist2.png used on input line 627.
+(pdftex.def)             Requested size: 193.50076pt x 145.11969pt.
+
+<./hist3.png, id=569, 578.16pt x 433.62pt>
+File: ./hist3.png Graphic file (type png)
+ <use ./hist3.png>
+Package pdftex.def Info: ./hist3.png used on input line 634.
+(pdftex.def)             Requested size: 193.50076pt x 145.11969pt.
+
+<./hist4.png, id=570, 578.16pt x 433.62pt>
+File: ./hist4.png Graphic file (type png)
+ <use ./hist4.png>
+Package pdftex.def Info: ./hist4.png used on input line 641.
+(pdftex.def)             Requested size: 193.50076pt x 145.11969pt.
+
+<./hist5.png, id=571, 578.16pt x 433.62pt>
+File: ./hist5.png Graphic file (type png)
+ <use ./hist5.png>
+Package pdftex.def Info: ./hist5.png used on input line 648.
+(pdftex.def)             Requested size: 193.50076pt x 145.11969pt.
+
+<./hist6.png, id=572, 578.16pt x 433.62pt>
+File: ./hist6.png Graphic file (type png)
+ <use ./hist6.png>
+Package pdftex.def Info: ./hist6.png used on input line 655.
+(pdftex.def)             Requested size: 193.50076pt x 145.11969pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 601--662
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31] [32] [33 <./hist1.png> <./hist2.png> <./hist3.png> <./hist4.png> <./hist5.
+png> <./hist6.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 663--667
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--667
+
+ []
+
+<./pythonScripts/heatmap2.png, id=606, 578.16pt x 433.62pt>
+File: ./pythonScripts/heatmap2.png Graphic file (type png)
+
+<use ./pythonScripts/heatmap2.png>
+Package pdftex.def Info: ./pythonScripts/heatmap2.png used on input line 670.
+(pdftex.def)             Requested size: 258.00539pt x 193.49953pt.
+ [34
+
+ <./pythonScripts/heatmap2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 677--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 677--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--710
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35] <./pythonScripts/kNeighbours.png, id=629, 578.16pt x 433.62pt>
+File: ./pythonScripts/kNeighbours.png Graphic file (type png)
+
+<use ./pythonScripts/kNeighbours.png>
+Package pdftex.def Info: ./pythonScripts/kNeighbours.png used on input line 722
+.
+(pdftex.def)             Requested size: 258.00539pt x 193.49953pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 716--741
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 716--741
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[36] [37 <./pythonScripts/kNeighbours.png>]
+File: ./sessions.png Graphic file (type png)
+ <use ./sessions.png>
+Package pdftex.def Info: ./sessions.png used on input line 748.
+(pdftex.def)             Requested size: 258.00539pt x 42.82759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 767--781
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--786
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--786
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--786
+
+ []
+
+[38
+
+] [39]
+<./pythonScripts/histClusterGenerated.png, id=672, 578.16pt x 433.62pt>
+File: ./pythonScripts/histClusterGenerated.png Graphic file (type png)
+
+<use ./pythonScripts/histClusterGenerated.png>
+Package pdftex.def Info: ./pythonScripts/histClusterGenerated.png used on input
+ line 795.
+(pdftex.def)             Requested size: 258.00539pt x 193.49953pt.
+
+<./pythonScripts/histGroundTruth.png, id=673, 578.16pt x 433.62pt>
+File: ./pythonScripts/histGroundTruth.png Graphic file (type png)
+
+<use ./pythonScripts/histGroundTruth.png>
+Package pdftex.def Info: ./pythonScripts/histGroundTruth.png used on input line
+ 801.
+(pdftex.def)             Requested size: 258.00539pt x 193.49953pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[40 <./pythonScripts/histClusterGenerated.png>] [41 <./pythonScripts/histGround
+Truth.png>] <./pythonScripts/pcaClustering.png, id=698, 578.16pt x 433.62pt>
+File: ./pythonScripts/pcaClustering.png Graphic file (type png)
+
+<use ./pythonScripts/pcaClustering.png>
+Package pdftex.def Info: ./pythonScripts/pcaClustering.png used on input line 8
+43.
+(pdftex.def)             Requested size: 258.00539pt x 193.49953pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--849
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--849
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 852--855
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 852--855
+
+ []
+
+[43 <./pythonScripts/pcaClustering.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 869--904
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 906--973
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 906--973
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 906--973
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 906--973
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 906--973
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 906--973
+
+ []
+
+[45] [46]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--979
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--979
+
+ []
+
+[47] (./Untitled.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+[]\OT1/cmr/m/n/10 Creative Pro-gram-ming MOOC.  []$\OT1/cmtt/m/n/10 https : / /
+ www . coursera . org / course /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
+[]\OT1/cmr/m/n/10 International Ed-u-ca-tional Data Min-ing So-ci-ety.  []$\OT1
+/cmtt/m/n/10 http : / / www .
+ []
+
+
+Overfull \hbox (2.02304pt too wide) in paragraph at lines 44--48
+\OT1/cmtt/m/n/10 edlife / massive-[]open-[]online-[]courses-[]are-[]multiplying
+-[]at-[]a-[]rapid-[]pace .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--53
+[]\OT1/cmr/m/n/10 Virtual En-vi-ron-ment.  []$\OT1/cmtt/m/n/10 http : / / docs 
+. python-[]guide . org / en / latest / dev /
+ []
+
+[48]) [49] (/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/09/06 1.5e listings language file
+) (./pythonScripts/importer.py
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
+ [50] [51]) (./pythonScripts/importShard1.py
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 27.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 27.
+ [52])
+(./pythonScripts/importShard2.py [53] [54]) (./pythonScripts/importShard3.py
+[55]) (./pythonScripts/importShard4.py [56] [57])
+(./pythonScripts/initialPerDayPlots.py [58] [59])
+(./pythonScripts/removeDuplicates.py [60])
+(./pythonScripts/generateHistogramsNoSessions.py [61] [62])
+(./pythonScripts/featureMatrix.py [63] [64]) (./pythonScripts/distanceMatrix.py
+[65] [66]) (./pythonScripts/heatPlot.py [67])
+(./pythonScripts/countUploadsAndActivities.py) [68]
+(./pythonScripts/makeSessions.py) (./pythonScripts/featureVectorsToJson.py
+[69]
+Missing character: There is no Â in font cmr9!
+Missing character: There is no ´ in font cmr9!
+ [70] [71]) [72] (./pythonScripts/dbLink.py [73] [74])
+(./pythonScripts/groundTruth.py [75] [76])
+(./pythonScripts/kNearestNeighbour.py [77] [78])
+(./pythonScripts/clusteringFeatureSessionVectors.py [79] [80])
+(./pythonScripts/validateClusteringFeatureSessionVectors.py [81]) [82]
+(./pythonScripts/pca.py [83] [84])
+<initial.pdf, id=2403, 614.295pt x 794.97pt>
+File: initial.pdf Graphic file (type pdf)
+ <use initial.pdf>
+Package pdftex.def Info: initial.pdf used on input line 1055.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: initial.pdf Graphic file (type pdf)
+
+<use initial.pdf>
+Package pdftex.def Info: initial.pdf used on input line 1055.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+ <initial.pdf, id=2406, page=1, 614.295pt x 794.97pt>
+File: initial.pdf Graphic file (type pdf)
+
+<use initial.pdf, page 1>
+Package pdftex.def Info: initial.pdf, page1 used on input line 1055.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: initial.pdf Graphic file (type pdf)
+ <use initial.pdf, page 1>
+Package pdftex.def Info: initial.pdf, page1 used on input line 1055.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: initial.pdf Graphic file (type pdf)
+ <use initial.pdf, page 1>
+Package pdftex.def Info: initial.pdf, page1 used on input line 1055.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: initial.pdf Graphic file (type pdf)
+
+<use initial.pdf, page 1>
+Package pdftex.def Info: initial.pdf, page1 used on input line 1055.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [85]
+<initial.pdf, id=2453, page=2, 614.295pt x 794.97pt>
+File: initial.pdf Graphic file (type pdf)
+ <use initial.pdf, page 2>
+Package pdftex.def Info: initial.pdf, page2 used on input line 1055.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: initial.pdf Graphic file (type pdf)
+
+<use initial.pdf, page 2>
+Package pdftex.def Info: initial.pdf, page2 used on input line 1055.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: initial.pdf Graphic file (type pdf)
+ <use initial.pdf, page 1>
+Package pdftex.def Info: initial.pdf, page1 used on input line 1055.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [86 <./initial.pdf>]
+<initial.pdf, id=2479, page=3, 614.295pt x 794.97pt>
+File: initial.pdf Graphic file (type pdf)
+ <use initial.pdf, page 3>
+Package pdftex.def Info: initial.pdf, page3 used on input line 1055.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: initial.pdf Graphic file (type pdf)
+
+<use initial.pdf, page 3>
+Package pdftex.def Info: initial.pdf, page3 used on input line 1055.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: initial.pdf Graphic file (type pdf)
+ <use initial.pdf, page 2>
+Package pdftex.def Info: initial.pdf, page2 used on input line 1055.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [87 <./initial.pdf>]
+File: initial.pdf Graphic file (type pdf)
+
+<use initial.pdf, page 3>
+Package pdftex.def Info: initial.pdf, page3 used on input line 1055.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [88 <./initial.pdf>]
+<preliminaryReport.pdf, id=2498, 614.295pt x 794.97pt>
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf>
+Package pdftex.def Info: preliminaryReport.pdf used on input line 1058.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+ <use preliminaryReport.pdf>
+Package pdftex.def Info: preliminaryReport.pdf used on input line 1058.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<preliminaryReport.pdf, id=2501, page=1, 614.295pt x 794.97pt>
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 1>
+Package pdftex.def Info: preliminaryReport.pdf, page1 used on input line 1058.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+ <use preliminaryReport.pdf, page 1>
+Package pdftex.def Info: preliminaryReport.pdf, page1 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 1>
+Package pdftex.def Info: preliminaryReport.pdf, page1 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+ <use preliminaryReport.pdf, page 1>
+Package pdftex.def Info: preliminaryReport.pdf, page1 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[89] <preliminaryReport.pdf, id=2506, page=2, 614.295pt x 794.97pt>
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 2>
+Package pdftex.def Info: preliminaryReport.pdf, page2 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+ <use preliminaryReport.pdf, page 2>
+Package pdftex.def Info: preliminaryReport.pdf, page2 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 1>
+Package pdftex.def Info: preliminaryReport.pdf, page1 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [90 <./preliminaryReport.pdf>]
+<preliminaryReport.pdf, id=2530, page=3, 614.295pt x 794.97pt>
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 3>
+Package pdftex.def Info: preliminaryReport.pdf, page3 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+ <use preliminaryReport.pdf, page 3>
+Package pdftex.def Info: preliminaryReport.pdf, page3 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 2>
+Package pdftex.def Info: preliminaryReport.pdf, page2 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [91 <./preliminaryReport.pdf>]
+<preliminaryReport.pdf, id=2539, page=4, 614.295pt x 794.97pt>
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 4>
+Package pdftex.def Info: preliminaryReport.pdf, page4 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+ <use preliminaryReport.pdf, page 4>
+Package pdftex.def Info: preliminaryReport.pdf, page4 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 3>
+Package pdftex.def Info: preliminaryReport.pdf, page3 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [92 <./preliminaryReport.pdf>]
+<preliminaryReport.pdf, id=2554, page=5, 614.295pt x 794.97pt>
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 5>
+Package pdftex.def Info: preliminaryReport.pdf, page5 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+ <use preliminaryReport.pdf, page 5>
+Package pdftex.def Info: preliminaryReport.pdf, page5 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 4>
+Package pdftex.def Info: preliminaryReport.pdf, page4 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [93 <./preliminaryReport.pdf>]
+<preliminaryReport.pdf, id=2559, page=6, 614.295pt x 794.97pt>
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 6>
+Package pdftex.def Info: preliminaryReport.pdf, page6 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+ <use preliminaryReport.pdf, page 6>
+Package pdftex.def Info: preliminaryReport.pdf, page6 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 5>
+Package pdftex.def Info: preliminaryReport.pdf, page5 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [94 <./preliminaryReport.pdf>]
+<preliminaryReport.pdf, id=2569, page=7, 614.295pt x 794.97pt>
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 7>
+Package pdftex.def Info: preliminaryReport.pdf, page7 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+ <use preliminaryReport.pdf, page 7>
+Package pdftex.def Info: preliminaryReport.pdf, page7 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 6>
+Package pdftex.def Info: preliminaryReport.pdf, page6 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [95 <./preliminaryReport.pdf>]
+File: preliminaryReport.pdf Graphic file (type pdf)
+
+<use preliminaryReport.pdf, page 7>
+Package pdftex.def Info: preliminaryReport.pdf, page7 used on input line 1058.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [96 <./preliminaryReport.pdf>]
+Underfull \hbox (badness 1067) in paragraph at lines 1099--1099
+[]|\OT1/cmr/m/n/10 The data is valid from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1099
+[]|\OT1/cmr/m/n/10 Read Baker's pa-per.
+ []
+
+
+Underfull \hbox (badness 5119) in paragraph at lines 1099--1099
+\OT1/cmr/m/n/10 They use fea-ture vec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1099
+\OT1/cmr/m/n/10 tors, sum-mary here:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1099
+\OT1/cmr/m/n/10 https://basecamp.com/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1099
+\OT1/cmr/m/n/10 2065604/pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1099
+\OT1/cmr/m/n/10 jects/ 1534650/to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1099
+[]|\OT1/cmr/m/n/10 Summary here:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1099
+\OT1/cmr/m/n/10 https://basecamp.com/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1099
+\OT1/cmr/m/n/10 2065604/pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1099
+\OT1/cmr/m/n/10 jects/ 1534650/to-
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 1110--1110
+[]|\OT1/cmr/m/n/10 Set up sharded clus-ter,
+ []
+
+[97]
+Underfull \hbox (badness 3302) in paragraph at lines 1132--1132
+\OT1/cmr/m/n/10 fea-ture vec-tors to find
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 1132--1132
+\OT1/cmr/m/n/10 ing it dif-fi-cult to build
+ []
+
+[98]
+Underfull \hbox (badness 1365) in paragraph at lines 1171--1171
+[]|\OT1/cmr/m/n/10 Research in how can I
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1192.
+[99]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1192.
+ (./Untitled.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1192.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1192.
+
+Package rerunfilecheck Info: File `Untitled.out' has not changed.
+(rerunfilecheck)             Checksum: B432E6AFD1707A970A014F99A099B5E6;4766.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1192.
+ ) 
+Here is how much of TeX's memory you used:
+ 11713 strings out of 493089
+ 180428 string characters out of 6134841
+ 552082 words of memory out of 5000000
+ 13230 multiletter control sequences out of 15000+600000
+ 15418 words of font info for 60 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,18n,46p,1872b,1889s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{lstnumber.-20.136} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstnumber.-19.59} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstnumber.-18.83} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstnumber.-14.150} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstnumber.-13.29} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstnumber.-10.63} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstnumber.-15.97} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstnumber.-12.29} has been referenced but does not 
+exist, replaced by a fixed one
+
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2015/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2015/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Untitled.pdf (99 pages, 2821968 bytes).
+PDF statistics:
+ 3004 PDF objects out of 3580 (max. 8388607)
+ 2772 compressed objects within 28 object streams
+ 1752 named destinations out of 2073 (max. 500000)
+ 771 words of extra memory for PDF output out of 10000 (max. 10000000)
+

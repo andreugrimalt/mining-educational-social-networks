@@ -1,0 +1,135 @@
+\begin{thebibliography}{10}
+
+\bibitem{Coursera}
+{Creative Programming MOOC}.
+\newblock \url{https://www.coursera.org/course/digitalmedia}.
+\newblock Accessed: 2015-02-20.
+
+\bibitem{ffmpeg}
+{FFMPEG}.
+\newblock \url{https://www.ffmpeg.org/}.
+\newblock Accessed: 2015-03-19.
+
+\bibitem{EDM}
+{International Educational Data Mining Society}.
+\newblock \url{http://www.educationaldatamining.org/}.
+\newblock Accessed: 2015-04-19.
+
+\bibitem{MongoIntro}
+{Mongo Documentation}.
+\newblock \url{http://www.mongodb.org/about/introduction/}.
+\newblock Accessed: 2015-04-22.
+
+\bibitem{Moodle}
+{Moodle}.
+\newblock \url{https://moodle.org/}.
+\newblock Accessed: 2015-04-20.
+
+\bibitem{nationalStudentSurvey}
+{National student survey}.
+\newblock \url{http://www.thestudentsurvey.com/}.
+\newblock Accessed: 2015-03-19.
+
+\bibitem{PeriodicVideos}
+{Periodic Videos}.
+\newblock \url{https://www.youtube.com/user/periodicvideos/}.
+\newblock Accessed: 2015-02-20.
+
+\bibitem{scikit}
+{SciKit-learn}.
+\newblock \url{http://scikit-learn.org/stable/}.
+\newblock Accessed: 2015-02-20.
+
+\bibitem{YearOfMooc}
+{The Year of the MOOC}.
+\newblock
+  \url{http://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html?_r=0}.
+\newblock Accessed: 2015-04-20.
+
+\bibitem{VirtualEnv}
+{Virtual Environment}.
+\newblock \url{http://docs.python-guide.org/en/latest/dev/virtualenvs/}.
+\newblock Accessed: 2015-02-20.
+
+\bibitem{Baker2012}
+Rsj~D Baker, Sm~Gowda, and Michael Wixon.
+\newblock {Towards Sensor-Free Affect Detection in Cognitive Tutor Algebra.}
+\newblock {\em \ldots Educational Data Mining \ldots}, pages 126--133, 2012.
+
+\bibitem{Baker2010}
+Rsjd S J~D. Baker.
+\newblock {Data mining for education}.
+\newblock {\em International Encyclopedia of Education}, 7:112--118, 2010.
+
+\bibitem{berners2000weaving}
+Tim Berners-Lee, Mark Fischetti, and Michael~L Foreword By-Dertouzos.
+\newblock {\em Weaving the Web: The original design and ultimate destiny of the
+  World Wide Web by its inventor}.
+\newblock HarperInformation, 2000.
+
+\bibitem{Biggs2002}
+John Biggs.
+\newblock {Constructive Alignment in Action : Imaginative Curriculum Symposium
+  Monday 4 th November 2002 ALIGNING THE CURRICULUM TO PROMOTE GOOD LEARNING}.
+\newblock {\em Most}, (November):1--7, 2002.
+
+\bibitem{Castro2007}
+F\'{e}lix Castro, Alfredo Vellido, \`{A}ngela Nebot, and Francisco Mugica.
+\newblock {Applying data mining techniques to e-learning problems}.
+\newblock {\em Studies in Computational Intelligence}, 62:183--221, 2007.
+
+\bibitem{Han:2005:DMC:1076797}
+Jiawei Han.
+\newblock {\em Data Mining: Concepts and Techniques}.
+\newblock Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 2005.
+
+\bibitem{HattieHelenE-MailAddress2007}
+Helen~Timperley John~Hattie.
+\newblock {The power of feedback. [References]}.
+\newblock {\em Review of Educational Research}, .77:16--7, 2007.
+
+\bibitem{Maia2008}
+Marcelo Maia, Jussara Almeida, and Virg\'{\i}lio Almeida.
+\newblock {Identifying User Behavior in Online Social Networks}.
+\newblock {\em Proceedings of the 1st workshop on Social network systems},
+  pages 1--6, 2008.
+
+\bibitem{Piatetsky-Shapiro1991}
+G.~Piatetsky-Shapiro.
+\newblock Discovery, analysis and presentation of strong rules.
+\newblock In G.~Piatetsky-Shapiro and W.~J. Frawley, editors, {\em Knowledge
+  Discovery in Databases}, pages 229--248. AAAI Press, 1991.
+
+\bibitem{Ramaprasad}
+Arkalgud Ramaprasad.
+\newblock On the definition of feedback.
+\newblock {\em Behavioral Science}, 28(1):4--13, 1983.
+
+\bibitem{Romero2013}
+Crist\'{o}bal Romero, Manuel~Ignacio L\'{o}pez, Jose~Mar\'{\i}a Luna, and
+  Sebasti\'{a}n Ventura.
+\newblock {Predicting students' final performance from participation in on-line
+  discussion forums}.
+\newblock {\em Computers and Education}, 68:458--472, 2013.
+
+\bibitem{Romero2010}
+Crist\'{o}bal Romero and Sebasti\'{a}n Ventura.
+\newblock {Educational data mining: A review of the state of the art}.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics-Part C:
+  Applications and Reviews}, 40(X):601--618, 2010.
+
+\bibitem{Sadler1998}
+D.~Royce Sadler.
+\newblock {Formative assessment and the design of instructional systems}.
+\newblock {\em Instructional Science}, 5(1):52909, 1998.
+
+\bibitem{Scriven1967}
+Michael Scriven.
+\newblock {The Methodology Of Evaluation}, 1967.
+
+\bibitem{Yee-king}
+Matthew Yee-king, Maria Krivenski, and Harry Brenton.
+\newblock {Designing educational social machines for effective feedback}.
+\newblock pages 1--13.
+
+\end{thebibliography}
